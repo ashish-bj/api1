@@ -1,0 +1,10 @@
+{
+  "properties": {
+    "credentials": {
+      "instrumentationKey": "{{Logger-Credentials--6627fe6b217d2016ec630de8}}"
+    },
+    "isBuffered": true,
+    "loggerType": "applicationInsights",
+    "resourceId": "/subscriptions/0ec9b781-2a5e-46c9-b6ae-48015aba71cd/resourceGroups/api_management/providers/microsoft.insights/components/devappinsights"
+  }
+}
